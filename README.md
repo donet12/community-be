@@ -1,4 +1,4 @@
-# 2-hyun-lee-community-be
+# Community Backend
 
 # 커뮤니티 게시판 프로젝트
 
@@ -10,7 +10,7 @@
 # 실행 방법
 1. 프로젝트 클론
 ```
-git clone https://github.com/100-hours-a-week/2-hyun-lee-community-be.git
+git clone <repository-url>
 ```
 2. 의존성 설치
 ```
